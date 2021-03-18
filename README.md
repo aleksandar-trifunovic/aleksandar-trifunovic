@@ -43,8 +43,8 @@
 <center>
   <table>
     <tr>
-        <td><a href="#"><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=aleksandar-trifunovic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a></td>
-        <td><a href="#"><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-trifunovic&hide=html&theme=dark&langs_count=10&hide_border=true&layout=compact"/></a></td>
+        <td><a href="#"><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api?username=aleksandar-trifunovic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a></td>
+        <td><a href="#"><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-trifunovic&hide=html&theme=dark&langs_count=10&hide_border=true&layout=compact"/></a></td>
     </tr>   
   </table>
 </center>
