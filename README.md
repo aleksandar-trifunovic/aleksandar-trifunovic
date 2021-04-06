@@ -2,12 +2,10 @@
 
 ## I'm Alex, enthusiastic Web Developer focused on Java technologies
 
-- 💻 I'm currently working as Web Developer at [asioso GmbH](https://www.asioso.com/en)
-- 📖 I'm currently learning Spring, Angular & Vaadin
-- 🚀 I'm actively collaborating on open-source projects
-- 👣 I'm always willing to work on great ideas and contribute to open-source community
-- 📝 I'm looking forward hearing from you. [Connect with me](https://www.alxtr42.com/)
-
+- 💻 I'm working as a Web Developer at [asioso GmbH](https://www.asioso.com/en)
+- 📖 My main tech stack is Spring, Angular and Vaadin
+- 📝 To learn more about me :  [Visit my website](https://www.alxtr42.com/)
+- 🚀 You can also check out [My Blog](https://aleksandar-trifunovic.github.io/)
 
 ## Technology Stack
 
@@ -35,7 +33,7 @@
   <table>
     <tr>
         <td><a href="#"><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=aleksandar-trifunovic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a></td>
-        <td><a href="#"><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-trifunovic&hide=html&theme=dark&langs_count=10&hide_border=true&layout=compact"/></a></td>
+        <td><a href="#"><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-trifunovic&hide=html,scss&theme=dark&langs_count=5&hide_border=true&layout=compact"/></a></td>
     </tr>   
   </table>
 </center>
