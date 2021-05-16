@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-## I'm Alex, enthusiastic Web Developer focused on Java technologies
+## I'm Alex, Software Engineer focused on Java technologies
 
-- 💻 I'm working as a Web Developer at [asioso GmbH](https://www.asioso.com/en)
+- 💻 I'm working as a Software Engineer at [asioso GmbH](https://www.asioso.com/en)
 - 📖 My main tech stack is Spring, Angular and Vaadin
 - 📝 To learn more about me :  [Visit my website](https://www.alxtr42.com/)
 - 🚀 You can also check out [My Blog](https://aleksandar-trifunovic.github.io/)
